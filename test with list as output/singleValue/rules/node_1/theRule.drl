@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ilog.rules.studio.model.brl:ActionRule xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ilog.rules.studio.model.brl="http://ilog.rules.studio/model/brl.ecore">
+  <name>theRule</name>
+  <uuid>f66267d7-1cda-46a1-8df3-3980788b6e35</uuid>
+  <locale>en_US</locale>
+  <definition><![CDATA[set decision to "greetings" ;]]></definition>
+</ilog.rules.studio.model.brl:ActionRule>
